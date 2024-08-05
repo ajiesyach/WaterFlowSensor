@@ -1,0 +1,17 @@
+{
+		"name": "WaterFlowSensor",
+		"version": "1.0.0",
+		"keywords": "sensor, arduino",
+		"description": "Flow Sensor Library, Water Flow Rate, Water Volume",
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/ajiesyach/WaterFlowSensor"
+		},
+		"authors": [{
+			"name": "ajisyach",
+			"email": "aji@dasaran.id",
+			"maintainer": true
+		}],
+		"frameworks": ["arduino"],
+		"platforms": ["*"]
+	}
